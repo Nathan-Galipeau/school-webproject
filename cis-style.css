@@ -1,0 +1,44 @@
+body { 
+background-image: url('https://static.vecteezy.com/system/resources/previews/001/217/210/original/binary-code-background-vector.jpg')
+}
+
+h1, h2, p, hr, ul, li, form, label, input {
+	color: white;
+	font-size: 18pt;
+}
+
+
+}table,th,td
+    {
+      border:2px solid white;
+    }
+    table
+    {
+      border-collapse:collapse;
+      width:65%;
+    }
+    td
+    {
+      height:40px;
+    }
+    tr
+    {
+      background-color:black;
+      color:white;
+    }
+    th
+    {
+      background-color:silver;
+      color:black;
+    }
+	
+	a {
+	  font-size: 18pt;
+	  color: white;
+	}
+	
+input[type=submit] {
+	color: black;
+	font-color: white;
+	box-shadow: 5px 5px 5px;
+}
